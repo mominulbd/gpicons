@@ -23,8 +23,7 @@ Creation date: 03/08/2018 12:03
 
 [class^="gp-"]:before, [class*=" gp-"]:before,
 [class^="gp-"]:after, [class*=" gp-"]:after {   
-	font-family: GpIcons;
-	font-size: 20px;
+	font-family: GpIcons;	
 	font-style: normal;
 
 }
